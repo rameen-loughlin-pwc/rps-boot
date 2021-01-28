@@ -110,7 +110,6 @@
 			<groupId>org.apache.maven.plugins</groupId>
        			<version>3.14.0</version>
    		 	<artifactId>pmd-apex</artifactId>
-    			<name>PMD Apex</name>
 			<configuration>
 				<ruleset xmlns="http://pmd.sourceforge.net/ruleset/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Default ruleset used by the CodeClimate Engine for Salesforce.com Apex" xsi:schemaLocation="http://pmd.sourceforge.net/ruleset/2.0.0 https://pmd.sourceforge.io/ruleset_2_0_0.xsd">
    <description>
