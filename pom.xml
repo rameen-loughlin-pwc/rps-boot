@@ -102,7 +102,7 @@
 	</build>
 
 
-</project>
+
 
 <ruleset xmlns="http://pmd.sourceforge.net/ruleset/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Default ruleset used by the CodeClimate Engine for Salesforce.com Apex" xsi:schemaLocation="http://pmd.sourceforge.net/ruleset/2.0.0 https://pmd.sourceforge.io/ruleset_2_0_0.xsd">
    <description>
@@ -166,3 +166,6 @@ Note: This ruleset is deprecated. Use "rulesets/apex/quickstart.xml" instead.
    <rule ref="rulesets/apex/quickstart.xml/OneDeclarationPerLine" deprecated="true" />
    <rule ref="rulesets/apex/quickstart.xml/ApexDoc" deprecated="true" />
 </ruleset>
+	
+	
+	</project>
